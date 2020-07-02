@@ -1,0 +1,2 @@
+# Library-Management-System
+I created a library management system using C++.In this project a member can issue one book from library. He has to submit it before 2 days. Otherwise fine will be charged @ Re. 100/- for each day. Administrator of the project can enter new member record, display all/specific member record, he can add and delete member  record. Administrator can enter new book record, display all books , add and delete book.
